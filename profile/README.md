@@ -1,6 +1,6 @@
-# Kara Network
+# Lulz
 
-Hi! Welcome to the Kara Network organization.
+Hi! Welcome to the Lulz organization.
 
 ## Team
 
@@ -11,4 +11,4 @@ Hi! Welcome to the Kara Network organization.
 
 ## Some links
 
-- [Discord](http://discord.kara.network/)
+- [Discord](https://discord.gg/bX85keWgjZ)
